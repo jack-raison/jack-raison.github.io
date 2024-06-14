@@ -1,5 +1,9 @@
 <img style="float:right" src="images/profile_picture.jpg" alt="profile-picture" width="200"/>
 
+## About me
+
+I'm an experienced data scientist with a love of problem-solving. Etc...
+
 ## Education
 
 ### Master of Science: Data Science, Technology & Innovation
