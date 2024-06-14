@@ -1,3 +1,5 @@
+<img style="float:right" src="images/profile_picture.jpg" alt="profile-picture" width="200"/>
+
 ## Education
 
 ### Master of Science: Data Science, Technology & Innovation
